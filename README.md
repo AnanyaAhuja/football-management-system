@@ -48,7 +48,7 @@ pip install -r requirements.txt
 To start the main CLI app:
 
 ```bash
-python football_app.py
+python main_project.py
 ```
 
 Or to run the demo script:
@@ -65,3 +65,4 @@ python test.py
 3rd Year B.Tech CSE @ NSUT  
 CGPA: 8.2  
 [GitHub Profile](https://github.com/AnanyaAhuja)
+
